@@ -24,3 +24,9 @@ h4 {
     font-size:22px;
     border-radius:22%;
 }
+canvas {
+     box-shadow:5px 5px 5px white;
+    border:22px solid white;
+    border-radius:10px;
+    margin-top:130px;
+}
